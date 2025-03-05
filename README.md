@@ -124,7 +124,5 @@ Contributions are welcome! Follow these steps:
    ```bash
    git push origin feature/your-feature-name
    ```  
-5. Open a pull request on GitHub.  
-
 ---
 
