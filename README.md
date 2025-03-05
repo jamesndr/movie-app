@@ -59,3 +59,15 @@ To set up the project locally, follow these steps:
 
    ```bash
    git clone https://github.com/jamesndr/movie-app.git
+
+2. **Navigate to the project directory:**
+   
+  ```bash
+   git clone https://github.com/jamesndr/movie-app.git
+
+3. ** Set up the backend:**
+    
+  ```bash
+  cd backend
+
+
