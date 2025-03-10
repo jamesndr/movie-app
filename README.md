@@ -1,6 +1,25 @@
 ```markdown
 # Movie App
 
+curl https://api.openai.com/v1/chat/completions \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer $OPENAI_API_KEY" \
+  -d '{
+    "model": "gpt-4o",
+    "messages": [
+      {
+        "role": "developer",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Hello!"
+      }
+    ]
+  }'
+
+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
+
 Code repository for NIIT Capstone project - Movie App.
 
 ## Table of Contents  
